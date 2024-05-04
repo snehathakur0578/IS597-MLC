@@ -1,5 +1,5 @@
 # IS597-MLC
-Bank Marketing Prediction
+                                      ** Bank Marketing Prediction**
 
 The dataset contains 41188 and 21 columns
 
