@@ -48,6 +48,6 @@ The dataset contains 41188 and 21 columns
 20 - nr.employed: number of employees - quarterly indicator (numeric)
 
 
-****Output Features:**
+**Output Features:**
 
 21- Deposit: has the client subscribed a term deposit? (binary: 'yes','no')
