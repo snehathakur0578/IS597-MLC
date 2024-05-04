@@ -3,6 +3,8 @@ Bank Marketing Prediction
 
 The dataset contains 41188 and 21 columns
 
+**Input features:**
+
 1 - age: (numeric)
 
 2 - job: type of job (categorical: 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','technician','unemployed','unknown')
@@ -46,5 +48,6 @@ The dataset contains 41188 and 21 columns
 20 - nr.employed: number of employees - quarterly indicator (numeric)
 
 
-Output Variable 
+****Output Features:**
+
 21- Deposit: has the client subscribed a term deposit? (binary: 'yes','no')
