@@ -1,6 +1,7 @@
 # IS597-MLC
 Bank Marketing Prediction
 The dataset contains 
+
 1 - age: (numeric)
 2 - job: type of job (categorical: 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','technician','unemployed','unknown')
 3 - marital: marital status (categorical: 'divorced','married','single','unknown'; 
@@ -26,4 +27,3 @@ The dataset contains
 
 Output Variable 
 21- Deposit: has the client subscribed a term deposit? (binary: 'yes','no')
-![image](https://github.com/snehathakur0578/IS597-MLC/assets/72201147/0e487926-35f6-44f5-acc8-d1a6addc8ba9)
